@@ -61,4 +61,17 @@ Tablas en los sistemas de Oracle, MariaDB y PostgreSQL.
 5. Eliminar la restricción sobre la columna Obra de la tabla Interpretación.
 6. Desactivar la restricción que afecta a País_nacimiento de la tabla Compositores.
 
+## CONSULTAS
+
+1. Muestra los escritores que nacieron antes del año 1965.
+2. Muestra el nombre de los cómics cuya categoria sea Aventura.
+3. Muestra el nombre del escritor y el comic ordenados por su código.
+4. Muestra el país del escritor que haya escrito el comic Wolverine.
+5. Crea una tabla llamada IRONMAN con el mismo tipo y tamaño de las ya existentes. Insertar en la tabla el nombre del comic, el número de páginas y el stock mediante una consulta de datos anexados.
+6. Actualizar en la tabla clientes que Laura ya no es socio.
+7. Borrar el comic 'Daredevil Born Again' de la tabla comics.
+8. Muestra el nombre del comic siendo el numero de paginas como mínimo 20 y como máximo 38.
+9. Consulta el nombre de un comic con su categoria y los nombres de los comics con su stock.
+10. Muestra el comic de Antonio cuyo id de venta pertenezca a la direccion C.Altraz
+
 
